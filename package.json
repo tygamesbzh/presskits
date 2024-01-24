@@ -1,0 +1,21 @@
+{
+  "name": "Ty Presskits",
+  "version": "1.0.0",
+  "description": "TyGAMES Presskit",
+  "license": "UNLICENSED",
+  "private": true,
+  "repository": "tygamesbzh/presskits",
+  "author": {
+    "name": "TYGAMES",
+    "url": "ty.Games"
+  },
+  "scripts": {
+    "start": "presskit build -L --watch data",
+    "deploy": "presskit build -B /presskit/ -DL data && cp -r redirections/* build/ && gh-pages --dist build --branch build"
+  },
+  "dependencies": {
+    "gh-pages": "^0.12.0",
+    "presskit": "^0.13.0"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <title>TyGAMES</title>
+  <founding-date>November 22, 2012</founding-date>
+  <website>http://ty.games/</website>
+  <based-in>Rennes, France</based-in>
+
+  <press-contact>hello@ty.games</press-contact>
+
+  <phone>N/A</phone>
+
+  <address>
+    <line>3A, rue de Paris</line>
+    <line>35510 Cesson-Sévigné</line>
+    <line>France</line>
+  </address>
+
+  <analytics></analytics>
+
+  <socials>
+    <social>
+      <name>Twitter (@tygamesbzh)</name>
+      <link>https://twitter.com/tygamesbzh/</link>
+    </social>
+  </socials>
+
+  <description>
+    Indie cooperative game publisher.
+  </description>
+
+  <histories>
+    <history>
+      <text>
+        TyGAMES is a newly created indie game publisher with an innovant cooperative organization. We all remain independants but we're stronger together!
+      </text>
+    </history>
+  </histories>
+
+  <trailers>
+    <trailer>
+      <name>Steredenn: Binary Stars</name>
+      <youtube>iBG9yqcXB-4</youtube>
+    </trailer>
+    <trailer>
+      <name>Tae The King!</name>
+      <youtube>H0fiLv8oO9c</youtube>
+    </trailer>
+    <trailer>
+      <name>Flipon</name>
+      <youtube>ry4ex4_T-oU</youtube>
+    </trailer>
+    <trailer>
+      <name>Creeping Deck</name>
+      <youtube>pnqdn7bBHOU</youtube>
+    </trailer>
+    <trailer>
+      <name>Psycho Starship Rampage</name>
+      <youtube>DAGXiMNZiYc</youtube>
+    </trailer>
+  </trailers>
+
+  <credits>
+    <credit>
+      <person>Damien Mayance</person>
+      <website>https://dmayance.com/</website>
+      <role>Co-Founder, Developer</role>
+    </credit>
+    <credit>
+      <person>Vincent Beauzee</person>
+      <website>https://fr.linkedin.com/in/vincent-beauzee</website>
+      <role>Co-Founder, Developer</role>
+    </credit>
+    <credit>
+      <person>Yannick Elahee</person>
+      <website>https://tavroxgames.com/about-the-team/</website>
+      <role>Partner, Marketing, BizDev</role>
+    </credit>
+    <credit>
+      <person>Laurent Victorino</person>
+      <website>https://monkeymoon.net</website>
+      <role>Partner, Mentor, Tutor</role>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Inquiries</name>
+      <mail>hello@ty.games</mail>
+    </contact>
+    <contact>
+      <name>Web</name>
+      <link>http://ty.games/</link>
+    </contact>
+  </contacts>
+</company>
